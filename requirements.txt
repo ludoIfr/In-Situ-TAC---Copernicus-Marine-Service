@@ -1,6 +1,5 @@
 matplotlib
 pystac
 pandas
-netcdf4
 xarray
 scipy
