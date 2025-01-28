@@ -1,0 +1,4 @@
+IR_TS_TG_CorunaTG.nc
+IR_TS_TG_Coruna2TG.nc
+IR_TS_TG_SantanderTG.nc
+IR_TS_TG_VigoTG.nc
